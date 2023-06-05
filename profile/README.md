@@ -22,7 +22,7 @@
 
 ### 2.1 Bases de datos relacionales
 
-- Laboratorio sobre consultas SQL en Postgrues
+- Laboratorio sobre consultas SQL en Postgres
 - Laboratorio ORM en Postgres
 
 ### 2.2 Bases de datos no relacionales
