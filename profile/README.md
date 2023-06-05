@@ -9,7 +9,7 @@
 
 ## 1. Objetivo
 
-- Proporcionar a los alumnos un conjunto de prácticas sobre bases de datos relacionales y no relacionales
+- Proporcionar un conjunto de prácticas sobre bases de datos relacionales y no relacionales
 
 ## 2. Roadmap
 
