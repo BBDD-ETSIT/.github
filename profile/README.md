@@ -9,7 +9,14 @@
 
 ## 1. Objetivo
 
-- Proporcionar un conjunto de prácticas sobre bases de datos relacionales y no relacionales
+- Conocer las diferencias entre las bases de datos relacionales y NoSQL.
+- Diseñar bases de datos relacionales a través del diagrama E/R.
+- Realizar consultas sobre bases de datos relacionales a través del lenguaje SQL.
+- Comprender el concepto de ORM y su importancia en el desarrollo de aplicaciones.
+- Conocer las diferentes familias de bases de datos NoSQL.
+- Realizar consultas sobre bases de datos no relacionales orientadas a documentos.
+- Comprender el concepto de ODM y Driver y su importancia en el desarrollo de aplicaciones.
+- Comprender el concepto de Replicación y Sharding.
 
 ## 2. Roadmap
 
