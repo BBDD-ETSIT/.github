@@ -22,8 +22,8 @@
 
 ### 2.1 Bases de datos relacionales
 
-- Laboratorio sobre consultas SQL en Postgres
-- Laboratorio ORM en Postgres
+- Laboratorio sobre consultas SQL en Postgres / MySQL
+- Laboratorio ORM en Postgres / MySQL
 
 ### 2.2 Bases de datos no relacionales
 - Laboratorio sobre consultas en documentos Mongo
